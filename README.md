@@ -208,12 +208,13 @@ Hasil validasi menunjukkan seluruh elemen berfungsi sesuai desain tanpa error at
 ### Home Screen
 
 Menampilkan lokasi pengguna, kategori, dan rekomendasi properti.
-![Home Screen Preview](docs/home_screen.png)
+![Home Screen Preview] <img width="674" height="1576" alt="Screenshot 2025-09-21 190406" src="https://github.com/user-attachments/assets/b53622b2-06df-40b8-88f8-687d659d25f3" />
 
 ### Detail Screen
 
 Menampilkan harga, lokasi, dan deskripsi properti.
-![Detail Screen Preview](docs/detail_screen.png)
+![Detail Screen Preview] <img width="687" height="1518" alt="Screenshot 2025-09-21 190425" src="https://github.com/user-attachments/assets/1f57131e-af18-4ad6-be20-3591454a6a80" />
+
 
 ---
 
