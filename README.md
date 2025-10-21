@@ -244,8 +244,6 @@ Proyek ini menegaskan kompetensi **Ferdy Salsabilla** dalam membangun aplikasi m
 Proyek ini bersifat internal dan digunakan untuk tujuan pengembangan serta portofolio profesional.
 Seluruh aset visual dan desain merupakan milik DCLIQ Digital Agency dan hanya digunakan untuk demonstrasi antarmuka aplikasi.
 
----
-
 © 2025 Ferdy Salsabilla – All Rights Reserved.
 
 ```
